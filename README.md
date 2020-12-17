@@ -32,8 +32,8 @@ echo $dica;
 
 ## Changelog
 
-- Primeira Mudança(http://192.168.10.184/aulas/avancado/projeto_fotoajax/).
-- Segunda Mudança.
+- Primeira Mudança (http://192.168.10.184/aulas/avancado/projeto_fotoajax/).
+- Segunda Mudança: Adicionado o Bootstrap no index2.php com imagem
 
 ## Histórico
 - Upload de imagem foi criado em 2020 para testar o versionamento com GIT.
