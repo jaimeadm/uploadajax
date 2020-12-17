@@ -38,3 +38,4 @@ echo $dica;
 ## Histórico
 - Upload de imagem foi criado em 2020 para testar o versionamento com GIT.
 - O projeto continuou até terminar o curso.
+- Alterado branch master.
