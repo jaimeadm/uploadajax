@@ -19,8 +19,11 @@ $(function(){
 				processData:false,
 				success:function(msg){
 					alert(msg);
+					location.reload();
 				}
 			});
+		} else {
+			alert("Nenhum arquivo selecionado");
 		}
 	});
 

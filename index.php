@@ -1,8 +1,9 @@
 <html>
 <head>
-    <title>Projeto Upload de foto com ajax</title>
+    <title>Projeto Upload de foto com ajax - 1.0</title>
 </head>
 <body>
+	<h1>Upload de imagem - 1.0 <small>ajax e php</small></h1>
 	Nome:<br/>
 	<input type="text" id="nome" name="nome" /><br/><br/>
 

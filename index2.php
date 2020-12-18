@@ -11,11 +11,11 @@
 	</head>
 <body>
 	<div class="container">
-		<h1>Upload de imagem <small>ajax e php</small></h1>
+		<h1>Upload de imagem - 2.0 <small>ajax e php</small></h1>
 		<img class="img-responsive" src="upload.png" alt="Upload" width="64" height="64"> 
 		<hr />
 
-		<div class="panel panel-info">
+		<div class="panel panel-warning">
 			<div class="panel-heading">Formulário</div>
 			<div class="panel-body">
 				<div class="form-group">
